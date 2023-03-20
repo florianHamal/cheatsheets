@@ -37,8 +37,17 @@ for all modules:
 	setg
 	unsetg
 lounch the module:
-	exploit
-	run
+	exploit(alias:run)
+		-z background the session as soon as it opens
+check if the target system is vunerable:
+	check
+background the session promt:
+	background
+see all background sessions:
+	sessions
+		-i interact with session
+	
+
 	
 Module Rankings:
 	https://tryhackme-images.s3.amazonaws.com/user-uploads/603df7900d7b6f1dff18b0bd/room-content/a88c8d37283878e01447853a68578deb.png
