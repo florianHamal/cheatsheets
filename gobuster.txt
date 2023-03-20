@@ -1,0 +1,5 @@
+gobuster:
+	Iterates threw paths of a website to find hidden pages (admin panel usw)
+	
+-u <website_to_scan>
+-w <wordlistToIterate
